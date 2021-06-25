@@ -28,7 +28,7 @@ twitter_username: sartorum
 github_username:  sartorum
 
 # Build settings
-remote_theme: tocttou/hacker-blog
+theme: minima
 plugins:
   - jekyll-feed
 
