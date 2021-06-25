@@ -28,7 +28,7 @@ twitter_username: sartorum
 github_username:  sartorum
 
 # Build settings
-remote_theme: stackbit-themes/fresh-unibit
+remote_theme: minimal
 plugins:
   - jekyll-feed
 
